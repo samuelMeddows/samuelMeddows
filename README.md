@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelMeddows
-- 👀 I’m interested in: IoT, Robotics, AI, Cyber Security.
+- 👀 I’m interested in: IoT, Robotics, Game Dev, AI, Cyber Security.
 - 🌱 I’m currently learning: Azure, ASP.Net, C++, Cyber Security
 - 💞️ I’m looking to collaborate on: Hack The Box, Try Hack Me, IoT Projects
 - 📫 How to reach me samuel.j.meddows@live.com.au, Discord : R4Z0R#6053
